@@ -34,20 +34,12 @@
 
 
 
-<div>
-<p align='center'>Desempenho de 2022</p>
-
-  <div align='center'>
-   <div style="display: flex;">
-   <p align="start">Janeiro <br>
-<img style="vertical-align: top;" weight='550px' height='450px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" /></div>
-    <p align="start">Janeiro <br>
-<img style="vertical-align: top;" weight='550px' height='450px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" /></div>
-  <p align="start">Janeiro <br>
-<img style="vertical-align: top;" weight='550px' height='450px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" /></div>
-  
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
- 
+</div>
  
  
   
