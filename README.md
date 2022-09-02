@@ -23,10 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=97revenge&show_icons=true&locale=en&layout=compact" alt="97revenge" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=97revenge&show_icons=true&theme=cobalt&title_color=10d579&text_color=1eeba7&bg_color=13c348&locale=en" alt="97revenge" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=97revenge&" alt="97revenge" /></p>
-
 
 
 # Desempenho do mes Passado :
