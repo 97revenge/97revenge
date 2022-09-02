@@ -37,16 +37,13 @@
 <div>
 <p align='center'>Desempenho de 2022</p>
 
-
-  <div style="display: flex;"><p align="start">Janeiro <br>
+  <div align='center'>
+   <div style="display: flex;">
+   <p align="start">Janeiro <br>
 <img align="start" weight='550px' height='450px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" /></div>
-  <div style="display: flex;"><p align="start">Janeiro <br>
-<img align="start" weight='550px' height='450px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" />
-  <p align="start">Janeiro <br>
-<img align="start" weight='550px' height='450px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" />
-  <p align="start">Janeiro <br>
-<img align="start" weight='550px' height='450px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" />
+  
   </div>
+ 
  
  
   
