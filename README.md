@@ -25,8 +25,8 @@
 
 
 <p align='center'> <em>Meu desempenho do mes passado . </em></p>
-<p><img align="center" src="https://user-images.githubusercontent.com/80254945/188183574-1be827c6-65e1-4826-9a92-0f425934abca.jpeg
-" alt="97revenge" /></p>
+![image](https://user-images.githubusercontent.com/80254945/188184218-0981f856-1a28-44fa-9c72-00497b0060eb.png)
+
 
 
 
