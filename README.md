@@ -8,9 +8,9 @@
 
 - ⚡ Fun fact **Eu gosto bastante de Drum n Bass .**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=97revenge&label=Profile%20views&color=0eb46c&style=flat" alt="97revenge" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=97revenge&label=Profile%20views&color=0eb46c&style=flat" alt="97revenge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=97revenge" alt="97revenge" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=97revenge" alt="97revenge" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
