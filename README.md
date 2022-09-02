@@ -36,32 +36,18 @@
 
 <div align="center">
   <str> Desempenho de 2022 </str>
-  <div style="display: flex;">
+  <div style="display: flex;"  style='vertical-align: top;'>
     <p>Janeiro</p>
-    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png" style="vertical-align: top;" />
+    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png" />
     <p>Janeiro</p>
-    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png" style="vertical-align: top;" />
+    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png"  />
     <p>Janeiro</p>
-    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png" style="vertical-align: top;" />
+    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png"  />
     
   </div>
 </div>
  
  
- <table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
- 
-  
-
-| Janeiro | Fevereiro    | Marcos    |
-| :-----: | :---: | :---: |
-| ![image](https://user-images.githubusercontent.com/80254945/188200212-95112d7a-6116-41ce-916f-c591690e8c33.png)
- | ![image](https://user-images.githubusercontent.com/80254945/188200256-e53e15dc-b768-4d14-890a-adc103903891.png)   | ![image](https://user-images.githubusercontent.com/80254945/188200293-f7e26299-32af-487a-9955-32bfb8241708.png)   |
-
 
 
 
