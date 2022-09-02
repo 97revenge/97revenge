@@ -35,14 +35,27 @@
 
 
 <div align="center">
-  <str> Desempenho de 2022 </str>
+  <str> <str>Desempenho de 2022</str> </str>
   <div style="display: flex;"  style='vertical-align: top;'>
     <p>Janeiro</p>
-    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png" />
-    <p>Janeiro</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188200966-53b2d508-1574-42cb-9e08-304b09cb725d.png" />
+    <p>Fevereiro</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188201072-de13bc15-4966-400b-8279-d0bf4cf257f0.png"  />
+    <p>Março</p>
     <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png"  />
-    <p>Janeiro</p>
-    <img src="https://user-images.githubusercontent.com/80254945/188198747-9a2bd71f-c8c3-40c9-800c-5590dbf8d1aa.png"  />
+    <p>Abril</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188201316-f1b53ccd-c2df-4d93-b62a-cd8452abee90.png"  />
+    <p>Maio</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188201406-9a4a0f95-b6cb-4027-b682-7b549a44add1.png"  />
+    <p>Junho</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188201501-54f9e35b-8f0a-42fc-92bc-bf243c7d67d1.png"  />
+    <p>Julho</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188201614-12687ceb-b73f-4760-ae0a-9bcc8126db64.png"  />
+    <p>Agosto</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188201757-5e95d9b4-ac78-4aff-96b4-c6858d22ef34.png"  />
+    <p>Setembro (Em Andamento)</p>
+    <img src="https://user-images.githubusercontent.com/80254945/188201857-7c659bf2-10d7-42d3-b823-d97204b46319.png"  />
+    
     
   </div>
 </div>
