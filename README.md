@@ -34,6 +34,19 @@
 
 
 
+<div>
+<p align='center'>Desempenho de 2022</p>
+<div align='start'>
+<p>Janeiro <br>
+<img align="center" weight='550px' height='550px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" />
+
+
+
+</div>
+</div>
+
+
+
 
 
 
