@@ -28,9 +28,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=97revenge&" alt="97revenge" /></p>
 
 
-<p>
-Desempenho do mes Passado : 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=97revenge&](https://user-images.githubusercontent.com/80254945/188182355-0b45d4e1-f7e7-4437-95ba-29f640a6ba69.png" alt="97revenge" /></p>
+
+# Desempenho do mes Passado :
+![image](https://user-images.githubusercontent.com/80254945/188182589-10cfe566-e224-4f42-8f41-a28fd59f5f9a.png)
+
 
 
 
