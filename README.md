@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=97revenge" alt="97revenge" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheushpb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheushpb/" height="30" width="40" /></a>
 </p>
@@ -24,10 +24,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=97revenge&show_icons=true&locale=en&layout=compact" alt="97revenge" /></p>
 
 
-
-# Desempenho do mes Passado :
-![image](https://user-images.githubusercontent.com/80254945/188182589-10cfe566-e224-4f42-8f41-a28fd59f5f9a.png)
-
+<p align='center'> <em>Meu desempenho do mes passado . </em></p>
+<p><img align="center" src="![WhatsApp Image 2022-09-02 at 12 27 01 (1)](https://user-images.githubusercontent.com/80254945/188183574-1be827c6-65e1-4826-9a92-0f425934abca.jpeg)
+" alt="97revenge" /></p>
 
 
 
