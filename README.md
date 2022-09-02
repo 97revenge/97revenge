@@ -1,4 +1,4 @@
-<h1 align="center">hey ! Matheus Pereira aqui ヾ(⌐■_■)ノ♪</h1>
+<h1 align="center">Hey! Matheus Pereira aqui ヾ(⌐■_■)ノ♪ 💫</h1>
 <h3 align="center">Meu maior objetivo na tecnologia da informação é trabalhar grandes regras de negócios com Javascript e desenvolver sites incríveis com React !!!</h3>
 
 
@@ -26,3 +26,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=97revenge&show_icons=true&theme=cobalt&title_color=10d579&text_color=1eeba7&bg_color=13c348&locale=en" alt="97revenge" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=97revenge&" alt="97revenge" /></p>
+
+
+<p>
+Desempenho do mes Passado : 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=97revenge&](https://user-images.githubusercontent.com/80254945/188182355-0b45d4e1-f7e7-4437-95ba-29f640a6ba69.png" alt="97revenge" /></p>
+
+
+
+
+
+
