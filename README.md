@@ -24,13 +24,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=97revenge&show_icons=true&locale=en&layout=compact" alt="97revenge" /></p>
 
 
-<p align='center'> <em>Meu desempenho do mes passado . </em></p>
-
-
-<br>
-
-
-<p><img align="center" weight='550px' height='550px' src="https://user-images.githubusercontent.com/80254945/188184994-ec61ac78-3a48-4ede-900d-dd50cf9c5602.png" alt="97revenge" /></p>
 
 
 
