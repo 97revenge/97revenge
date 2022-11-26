@@ -1,12 +1,4 @@
-<h1 align="center">Hey! Matheus Pereira aqui ヾ(⌐■_■)ノ♪ 💫</h1>
-<h3 align="center">Meu maior objetivo na tecnologia da informação é trabalhar grandes regras de negócios com Javascript e desenvolver sites incríveis com React !!!</h3>
 
-
-- 🌱 No momento estou estudando **Javascript & React**
-
-- 💬 Me Pergunte Sobre ... **React, Javascript & Java**
-
-- ⚡ Fun fact **Eu gosto bastante de Drum n Bass .**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=97revenge&label=Profile%20views&color=0eb46c&style=flat" alt="97revenge" /> </p>
 
